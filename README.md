@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Abner Leandro Gonçalves 
+### Hello! 👋 I'm Abner Leandro Gonçalves ;D
 
 - 🔭 Today I am open to new job opportunities in the area of ​​data development and analysis. I have academic knowledge in programming and data analysis. I am a passionate enthusiast about futuristic technologies and AI......
 - 🌱 I'm studying Angular, React, Python, A.I. and Power B.I through w3schools... https://www.w3schools.com/ & intend to do a postgraduate degree at FIAP in AI (yn) 
