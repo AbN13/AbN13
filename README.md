@@ -7,10 +7,6 @@
 - 📫 Contact me via my email: work.abn96@gmail.com / abnerleandro96@gmail.com ...
 - ⚡ Fun fact: The first computer bug was found in 1947 by Grace Hopper, a computer pioneer. The bug was caused by a moth that got stuck in one of the computer's relays.
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="AbN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AbN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
