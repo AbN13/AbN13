@@ -1,6 +1,4 @@
-### Hello! 👋 I'm Abner Leandro Gonçalves ;D
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+%F0%9F%91%8B+I'm+Abner+Leandro+Gon%C3%A7alves+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+%F0%9F%91%8B+I'm+AbnerLeandroGon%C3%A7alves+)](https://git.io/typing-svg)
 
 - 🔭 Today I am open to new job opportunities in the area of ​​data development and analysis. I have academic knowledge in programming and data analysis. I am a passionate enthusiast about futuristic technologies and AI......
 - 🌱 I'm studying Angular, React, Python, A.I. and Power B.I through w3schools...  
