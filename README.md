@@ -61,7 +61,7 @@ Angular • TypeScript • JavaScript • Tailwind CSS • PHP • MySQL • Git
 
 🔗 Repository
 
-https://github.com/AbN13/elite-jerseys2
+https://github.com/AbN13/elite-jerseys
 
 ---
 
