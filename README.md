@@ -11,7 +11,7 @@ Building responsive and modern web applications with Angular.
 </p>
 
 <h3 align="center">
-Front-end Developer focused on Angular, TypeScript and modern web applications.
+Passionate about creating scalable, responsive and user-friendly experiences.
 </h3>
 
 <p align="center">
