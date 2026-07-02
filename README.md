@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="URL_DO_SEU_BANNER" alt="Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/AbN13/AbN13/main/banner.png" width="100%"></p>
 
 <h1 align="center">Hi 👋 I'm Abner Leandro</h1>
 
