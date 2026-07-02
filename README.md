@@ -7,22 +7,27 @@ Angular • TypeScript • Front-end Developer
 </h1>
 
 <p align="center">
-Building scalable, responsive and modern web applications.
+Building responsive, scalable and modern web applications with Angular.
 </p>
 
 <p align="center">
-Clean code • REST APIs • Responsive Design • Component-based Architecture
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💚 Front-end Developer specialized in Angular and TypeScript.
+💚 Front-end Developer focused on Angular and TypeScript.
 
 🚀 I enjoy building modern web applications using component-based architecture, REST APIs and responsive design.
 
-💻 Practical experience with Angular, TypeScript, JavaScript, PHP and MySQL.
+💻 Experience with Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, PHP and MySQL.
 
 📚 Constantly improving my skills through personal projects, bootcamps and hands-on development.
 
@@ -42,7 +47,7 @@ Clean code • REST APIs • Responsive Design • Component-based Architecture
 
 ## ⚽ Elite Jerseys
 
-Modern e-commerce application built with Angular.
+Responsive e-commerce application developed with Angular.
 
 ### Features
 
@@ -53,9 +58,9 @@ Modern e-commerce application built with Angular.
 - Checkout
 - CEP Integration
 - REST API Integration
-- Component-based Architecture
-- PHP Backend
+- PHP Back-end
 - MySQL Database
+- Component-based Architecture
 
 ### Technologies
 
@@ -67,7 +72,7 @@ https://github.com/AbN13/elite-jerseys
 
 ---
 
-## 💼 Capgemini Start Project
+## 💻 Proway Computers (Capgemini Start)
 
 Project developed during the Capgemini Start Program.
 
@@ -80,7 +85,7 @@ Project developed during the Capgemini Start Program.
 - TypeScript
 - Responsive Layout
 
-🔗 Live Demo
+🌐 Live Demo
 
 https://abn13.github.io/proway-computers/
 
@@ -105,8 +110,8 @@ https://github.com/AbN13/proway-computers
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
