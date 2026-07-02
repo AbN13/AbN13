@@ -7,15 +7,11 @@ Angular • TypeScript • Front-end Developer
 </h1>
 
 <p align="center">
-Building responsive and modern web applications with Angular.
+Building scalable, responsive and modern web applications.
 </p>
 
-<h3 align="center">
-Passionate about creating scalable, responsive and user-friendly experiences.
-</h3>
-
 <p align="center">
-Passionate about building responsive, scalable and user-friendly applications.
+Clean code • REST APIs • Responsive Design • Component-based Architecture
 </p>
 
 ---
@@ -46,7 +42,7 @@ Passionate about building responsive, scalable and user-friendly applications.
 
 ## ⚽ Elite Jerseys
 
-Responsive e-commerce application developed with Angular.
+Modern e-commerce application built with Angular.
 
 ### Features
 
@@ -84,13 +80,19 @@ Project developed during the Capgemini Start Program.
 - TypeScript
 - Responsive Layout
 
-> Repository link coming soon.
+🔗 Live Demo
+
+https://abn13.github.io/proway-computers/
+
+🔗 Repository
+
+https://github.com/AbN13/proway-computers
 
 ---
 
 # 📚 Education & Learning
 
-🎓 UNINOVE Bachelor's Degree in Information Technology Management
+🎓 Bachelor's Degree in Information Technology Management — UNINOVE
 
 🎓 Capgemini Start Program
 
@@ -103,8 +105,8 @@ Project developed during the Capgemini Start Program.
 # 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight" />
 </p>
 
 ---
