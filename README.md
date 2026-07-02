@@ -84,9 +84,7 @@ Project developed during the Capgemini Start Program.
 
 # 📚 Education & Learning
 
-🎓 Bachelor's Degree in Information Technology Management
-
-🏫 UNINOVE
+🎓 UNINOVE Bachelor's Degree in Information Technology Management
 
 🎓 Capgemini Start Program
 
