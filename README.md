@@ -1,5 +1,6 @@
 <p align="center">
-<[img src="[https://raw.githubusercontent.com/AbN13/AbN13/main/banner.png](https://github.com/AbN13/AbN13/blob/main/ChatGPT%20Image%202%20de%20jul.%20de%202026%2C%2013_58_41.png)" width="100%"](https://raw.githubusercontent.com/AbN13/AbN13/main/banner.png)></p>
+  <img src="https://raw.githubusercontent.com/AbN13/AbN13/main/banner.png" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋 I'm Abner Leandro</h1>
 
@@ -68,7 +69,7 @@ https://github.com/AbN13/elite-jerseys2
 
 Project developed during the Capgemini Start Program.
 
-Main concepts practiced:
+### Main concepts practiced
 
 - Angular
 - Components
@@ -77,7 +78,7 @@ Main concepts practiced:
 - TypeScript
 - Responsive Layout
 
-*(Repository link coming soon.)*
+> Repository link coming soon.
 
 ---
 
@@ -98,11 +99,8 @@ Main concepts practiced:
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -110,23 +108,13 @@ Main concepts practiced:
 # 🤝 Connect with Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/abner-leandro-goncalves">
-LinkedIn
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://github.com/AbN13">
-GitHub
-</a>
-
+  <a href="https://www.linkedin.com/in/abner-leandro-goncalves">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/AbN13">GitHub</a>
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile!
-
 </p>
