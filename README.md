@@ -109,10 +109,7 @@ https://github.com/AbN13/proway-computers
 
 # 📈 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight"/> </p>
 
 ---
 
