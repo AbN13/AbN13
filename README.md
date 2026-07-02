@@ -1,28 +1,133 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+%F0%9F%91%8B+I'm+AbnerLeandroGon%C3%A7alves+)](https://git.io/typing-svg)
+<p align="center">
+  <img src="URL_DO_SEU_BANNER" alt="Banner" width="100%">
+</p>
 
-- 🔭 Today I am open to new job opportunities in the area of ​​data development and analysis. I have academic knowledge in programming and data analysis. I am a passionate enthusiast about futuristic technologies and AI......
-- 🌱 I'm studying Angular, React, Python, A.I. and Power B.I through w3schools...  
-- 👯 I'm looking for an opportunity to enter the job market...
-- 💬 Ask me a question... https://stackoverflow.com/users/19370903/abner-leandro-gon%c3%a7alves?tab=badges
-- 📫 Contact me via my email: work.abn96@gmail.com / abnerleandro96@gmail.com ...
-- ⚡ Fun fact: The first computer bug was found in 1947 by Grace Hopper, a computer pioneer. The bug was caused by a moth that got stuck in one of the computer's relays.
+<h1 align="center">Hi 👋 I'm Abner Leandro</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="AbN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AbN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="AbN-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="AbN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AbN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AbN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-  ##
- 
-<div> 
-  <a href = "mailto:abnerleandro96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/abner-leandro-gon%C3%A7alves-1b5b87135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<h3 align="center">
+Front-end Developer focused on Angular, TypeScript and modern web applications.
+</h3>
 
+<p align="center">
+Passionate about building responsive, scalable and user-friendly applications.
+</p>
 
+---
 
+# 👨‍💻 About Me
+
+💚 Front-end Developer specialized in Angular and TypeScript.
+
+🚀 I enjoy building modern web applications using component-based architecture, REST APIs and responsive design.
+
+💻 Practical experience with Angular, TypeScript, JavaScript, PHP and MySQL.
+
+📚 Constantly improving my skills through personal projects, bootcamps and hands-on development.
+
+🎯 Currently looking for my first opportunity as a Front-end Developer.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚽ Elite Jerseys
+
+Responsive e-commerce application developed with Angular.
+
+### Features
+
+- Responsive Home Page
+- Product Catalog
+- Product Details
+- Shopping Cart
+- Checkout
+- CEP Integration
+- REST API Integration
+- Component-based Architecture
+- PHP Backend
+- MySQL Database
+
+### Technologies
+
+Angular • TypeScript • JavaScript • Tailwind CSS • PHP • MySQL • Git
+
+🔗 Repository
+
+https://github.com/AbN13/elite-jerseys2
+
+---
+
+## 💼 Capgemini Start Project
+
+Project developed during the Capgemini Start Program.
+
+Main concepts practiced:
+
+- Angular
+- Components
+- Routing
+- Services
+- TypeScript
+- Responsive Layout
+
+*(Repository link coming soon.)*
+
+---
+
+# 📚 Education & Learning
+
+🎓 Bachelor's Degree in Information Technology Management
+
+🏫 UNINOVE
+
+🎓 Capgemini Start Program
+
+🎓 DIO (Digital Innovation One) Bootcamps
+
+🎓 SENAI Front-end Development
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbN13&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbN13&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abner-leandro-goncalves">
+LinkedIn
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/AbN13">
+GitHub
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
